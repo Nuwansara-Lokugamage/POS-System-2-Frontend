@@ -13,6 +13,7 @@ function MainLayout({children}) {
             <ul>
             <Link to="/" className="navbar-brand">Home</Link>
             <Link to="/allproducts" className="navbar-brand">All Products</Link>
+            <Link to="/stock" className='navbar-brand'>Stocks</Link>
             </ul>
           </div>
           
